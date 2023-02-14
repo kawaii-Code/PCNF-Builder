@@ -1,0 +1,9 @@
+# Build
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# Resharper settings
+Diskretika.sln.DotSettings.user
